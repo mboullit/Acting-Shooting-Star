@@ -1,2 +1,2 @@
 # Acting-Shooting-Star
-Ce projet consistait à mettre en place une bibliothèque d'acteurs afin de permettre de construire un jeu ressemblant à un shoot'em up, tout en utilisant de la programmation fonctionnelle en se servant du langage Racket.
+This project consisted in setting up a library of actors in order to allow the construction of a game resembling a shoot'em up, while using functional programming using the Racket language. 
